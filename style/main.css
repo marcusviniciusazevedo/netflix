@@ -46,7 +46,7 @@ header nav a:hover {
 /* Filme principal */
 .filme-principal {
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)50%), url('/img/capa-gambito.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)50%), url('../img/capa-gambito.jpg');
 
     height: 500px;
     background-size: cover;
